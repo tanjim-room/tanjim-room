@@ -8,12 +8,11 @@
 
 ## 🌸 About Me  
 
-- 🔭 Currently working on **Data Engineering & Full-Stack Projects**  
+- 🔭 Currently working on **Full-Stack Projects**  
 - 🌱 Exploring **Cloud (AWS, Azure)** + **Machine Learning**  
-- 💬 Ask me about **Full-Stack, Unity, Data Pipelines & Illustrator**  
-- 🎨 Hobby: Mixing *code + creativity* (sometimes with anime vibes 🎶)  
-- 📫 Reach me at: **tasmia.zerin.60@gmail.com**  
-- ⚡ Fun fact: *"Coding is 1% writing, 99% debugging 💀"*  
+- 💬 Ask me about **Full-Stack, Graphic Design**  
+- 🎨 Hobby: Mixing *code + creativity* 
+- 📫 Reach me at: **tanjimrakib2019@gmail.com**  
 
 ---
 
@@ -41,11 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TasmiaZerin1128&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasmiaZerin1128&layout=compact&theme=tokyonight)  
 
----
-
-## 🏆 Achievements  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TasmiaZerin1128&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
