@@ -1,61 +1,75 @@
 # 👋 Hi, I'm Tanjim A Rakib  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Engineer;Full-Stack+Developer;AI+Driven+Web+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&lines=Software+Engineer;Full-Stack+Developer;AI+Driven+Web+Solutions;Engineering+Smarter+Web+Experiences)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding Engineer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently working on **AI-powered Web Applications**  
-- 🌱 Exploring **Machine Learning, Cloud Computing (AWS, Azure)**, and **Scalable Web Architectures**  
-- 💬 Ask me about **Full-Stack Development, AI Integration in Web Apps, and Data Engineering**  
+- 🔭 Currently building **AI-powered Web Applications**  
+- 🌱 Learning **Cloud Computing, MLOps & Scalable Web Systems**  
+- 💬 Ask me about **Full-Stack Development, AI Integration, and Data Engineering**  
 - 📫 Reach me at: **tanjimrakib2019@gmail.com**  
-- ⚡ Motto: *"Building intelligent web solutions where AI meets creativity."*  
+- ⚡ Motto: *"Engineering smarter web experiences with AI."*  
 
 ---
 
 ## 🚀 Tech Stack  
 
 ### 🌐 Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>  
+</p>
 
 ### 🤖 AI & Data  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/>  
+</p>
 
 ### 🛠️ Tools & Platforms  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>  
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌟 Featured Projects  
 
-- 🤖 **AI-Powered Web Chatbot** – A customer support chatbot with **NLP + React**  
-- 🧠 **Personalized Learning Platform** – Adaptive e-learning site using **Machine Learning**  
-- 🏥 **Smart Health Portal** – Predictive analysis for health data with **AI-driven insights**  
-- 🛒 **Next Shop** – Full-stack eCommerce solution with modern UI  
+- 🤖 **AI-Powered Chatbot** – Web chatbot with **NLP + React**  
+- 🧠 **Smart Learning Platform** – Adaptive e-learning site using **Machine Learning**  
+- 🏥 **Health AI Portal** – Predictive health analytics with **AI-driven dashboards**  
+- 🛒 **Next Shop** – Full-stack eCommerce platform with AI recommendations  
 
-> *(Pin your top repos in GitHub so they appear on your profile!)*  
+*(Tip: Pin your top repos on GitHub so they appear directly on your profile!)*  
+
+---
+
+## 🏆 Achievements  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -67,6 +81,12 @@
 
 ---
 
-## ✨ Quote for Developers  
+## 🐍 Watch my contributions get eaten by a snake  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Daily Dev Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
