@@ -1,64 +1,72 @@
-# 👋 Hey, I'm Tanjim Rakib
+# 👋 Hi, I'm Tanjim A Rakib  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Software+Engineer;Data+Engineer;Full-Stack+Developer;Problem+Solver;Anime+Fan+%F0%9F%8E%A9)](https://git.io/typing-svg)
-
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Engineer;Full-Stack+Developer;AI+Driven+Web+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
-## 🌸 About Me  
+## 👨‍💻 About Me  
 
-
-- 🔭 Currently working on **Full-Stack Projects**  
-- 🌱 Exploring **Cloud (AWS, Azure)** + **Machine Learning**  
-- 💬 Ask me about **Full-Stack, Graphic Design**  
-- 🎨 Hobby: Mixing *code + creativity* 
+- 🔭 Currently working on **AI-powered Web Applications**  
+- 🌱 Exploring **Machine Learning, Cloud Computing (AWS, Azure)**, and **Scalable Web Architectures**  
+- 💬 Ask me about **Full-Stack Development, AI Integration in Web Apps, and Data Engineering**  
 - 📫 Reach me at: **tanjimrakib2019@gmail.com**  
+- ⚡ Motto: *"Building intelligent web solutions where AI meets creativity."*  
 
 ---
 
-## 🚀 Tech Arsenal  
+## 🚀 Tech Stack  
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🤖 AI & Data  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Tools & Platforms  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=TasmiaZerin1128&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=TasmiaZerin1128&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasmiaZerin1128&layout=compact&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
+---
+
+## 🌟 Featured Projects  
+
+- 🤖 **AI-Powered Web Chatbot** – A customer support chatbot with **NLP + React**  
+- 🧠 **Personalized Learning Platform** – Adaptive e-learning site using **Machine Learning**  
+- 🏥 **Smart Health Portal** – Predictive analysis for health data with **AI-driven insights**  
+- 🛒 **Next Shop** – Full-stack eCommerce solution with modern UI  
+
+> *(Pin your top repos in GitHub so they appear on your profile!)*  
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tasmiazerin1128.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasmiazerin1128)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasmia.zerin.60@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjimrakib2019@gmail.com)  
 
 ---
 
-## 🐍 Watch my contributions get eaten by a snake  
+## ✨ Quote for Developers  
 
-![snake gif](https://github.com/TasmiaZerin1128/TasmiaZerin1128/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ✨ Random Dev Quote  
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
