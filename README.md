@@ -2,11 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&lines=Software+Engineer;Full-Stack+Developer;AI+Driven+Web+Solutions;Engineering+Smarter+Web+Experiences)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding Engineer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Hacker Typing" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ---
-
-
 
 ## 👨‍💻 About Me  
 
@@ -15,8 +13,6 @@
 - 💬 Ask me about **Full-Stack Development, AI Integration, and Data Engineering**  
 - 📫 Reach me at: **tanjimrakib2019@gmail.com**  
 - ⚡ Motto: *"Engineering smarter web experiences with AI."*  
-
-
 
 ---
 
@@ -66,8 +62,6 @@
 - 🧠 **Smart Learning Platform** – Adaptive e-learning site using **Machine Learning**  
 - 🏥 **Health AI Portal** – Predictive health analytics with **AI-driven dashboards**  
 - 🛒 **Next Shop** – Full-stack eCommerce platform with AI recommendations  
-
-*(Tip: Pin your top repos on GitHub so they appear directly on your profile!)*  
 
 ---
 
