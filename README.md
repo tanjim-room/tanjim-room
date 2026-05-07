@@ -14,12 +14,11 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently building **AI-powered Web Applications**  
-- ⚔️ Think of me as a **code warrior in the digital battlefield**  
-- 🌱 Exploring **Cloud, AI Systems & Scalable Engineering**  
-- 💬 Ask me about **AI Integration, Full-Stack Development, Cyber Systems**  
-- 📫 Reach me: **tanjimrakib2019@gmail.com**  
-- ⚡ Motto: *"Code is my weapon, AI is my armor."*  
+- Software Engineering student passionate about building real-world projects
+- Skilled in Java, JavaScript, React, HTML, CSS, Tailwind, and databases
+- Interested in software design, systems, and problem solving
+- Worked on web and desktop-based development projects
+- Always learning new technologies like AI and cybersecurity 
 
 ---
 
