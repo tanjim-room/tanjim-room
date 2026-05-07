@@ -1,10 +1,9 @@
 <!-- HERO BANNER -->
 <div align="center">
 
-<img alt="Hacker Typing" width="100%" src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gi](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)f"/>
 
 # ⚔️ Tanjim A Rakib  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Software+Engineer;⚔️+AI-Driven+Web+Developer;🔥+Fighting+Bugs+Like+Battles;🚀+Engineering+Future+with+AI+%26+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Software+Engineer;⚔️+Web+Developer;🔥+Fighting+Bugs+Like+Battles;🚀+Engineering+Future+with+AI+%26+Code)](https://git.io/typing-svg)
 
 
 </div>
