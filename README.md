@@ -128,29 +128,11 @@ Modern online shopping platform with
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanjim-room&theme=radical&row=2&column=4"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanjim-room&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjim-room&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjim-room&theme=tokyonight"/>
-
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tanjim-room&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=tanjim-room&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanjim-room&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -159,22 +141,6 @@ Modern online shopping platform with
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjim-room&theme=tokyo-night)](https://github.com/tanjim-room)
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/tanjim-room/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# ⌚ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 
 # 📚 Competitive Programming
 
