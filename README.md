@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md. Tanjim Arafat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineering +Student;Full+Stack+Web+Developer;Laravel+Developer;React+Developer;AI+%26+Machine+Learning+Enthusiast;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Laravel+Developer;React+Developer;AI+%26+Machine+Learning+Enthusiast;" />
 </p>
 
 <p align="center">
