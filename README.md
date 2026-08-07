@@ -130,8 +130,8 @@ Modern online shopping platform with
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanjim-room&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tanjim-room&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=tanjim-room&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=tanjim-room&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanjim-room&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
