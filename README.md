@@ -2,7 +2,7 @@
 <div align="center">
 
 
-# ⚔️ Tanjim A Rakib  
+# ⚔️ Md. Tanjim Arafat  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⚡+Software+Engineer;⚔️+Web+Developer;🔥+Fighting+Bugs+Like+Battles;🚀+Engineering+Future+with+AI+%26+Code)](https://git.io/typing-svg)
 
 
