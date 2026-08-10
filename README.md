@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-🎓 Software Engineering Student from Bangladesh
+🎓 Software Engineering Student from Bangladesh.
 
 💻 Passionate Full Stack Web Developer with experience building scalable web applications.
 
