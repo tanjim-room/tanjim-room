@@ -30,7 +30,7 @@
 
 ---
 
-# 🚀 Tech Stacks
+# 🚀 Tech Stack
 
 ### Languages
 
